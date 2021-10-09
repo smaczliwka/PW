@@ -1,2 +1,2 @@
-Zadanie zaliczeniowe ze współbieżności w języku Java
-https://www.mimuw.edu.pl/~iwanicki/courses/cp/2020/
+Zadanie zaliczeniowe ze współbieżności w języku Java.
+Treść: https://www.mimuw.edu.pl/~iwanicki/courses/cp/2020/
